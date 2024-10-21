@@ -2,6 +2,45 @@
 * text=auto
 
 *.shaders linguist-vendored=true
-*.shader linguist-detectable=false
-*.cginc linguist-detectable=false
 *.cginc linguist-vendored=true
+
+/[Aa]ssets/TextMesh?Pro/* linguist-generated
+/[Aa]ssets/TextMesh?Pro/** linguist-generated
+
+/[Aa]ssets/Audio/* linguist-generated
+/[Aa]ssets/FireIceProjectileExplosion/* linguist-generated
+/[Aa]ssets/FireIceProjectileExplosion/** linguist-generated
+
+/[Aa]ssets/Free?Demo?of?Low?Poly?Space?Alien?Worlds?3D?Asset?Pack/* linguist-generated
+/[Aa]ssets/Free?Demo?of?Low?Poly?Space?Alien?Worlds?3D?Asset?Pack/** linguist-generated
+/[Aa]ssets/Free?Demo?of?Low?Poly?Space?Alien?Worlds?3D?Asset?Pack/*** linguist-generated
+/[Aa]ssets/Free?Demo?of?Low?Poly?Space?Alien?Worlds?3D?Asset?Pack/**** linguist-generated
+
+/[Aa]ssets/Free?Stylized?Skybox/* linguist-generated
+/[Aa]ssets/Free?Stylized?Skybox/** linguist-generated
+/[Aa]ssets/Free?Stylized?Skybox/*** linguist-generated
+
+/[Aa]ssets/Hovl?Studio/* linguist-generated
+/[Aa]ssets/Hovl?Studio/** linguist-generated
+/[Aa]ssets/Hovl?Studio/*** linguist-generated
+/[Aa]ssets/Hovl?Studio/**** linguist-generated
+
+/[Aa]ssets/Lana?Studio/** linguist-generated
+/[Aa]ssets/Lana?Studio/*** linguist-generated
+/[Aa]ssets/Lana?Studio/**** linguist-generated
+
+/[Aa]ssets/Materials/* linguist-generated
+
+/[Aa]ssets/Polytope?Studio/* linguist-generated
+/[Aa]ssets/Polytope?Studio/** linguist-generated
+/[Aa]ssets/Polytope?Studio/*** linguist-generated
+/[Aa]ssets/Polytope?Studio/**** linguist-generated
+
+/[Aa]ssets/AI/MainEnemy/Model/* linguist-generated
+/[Aa]ssets/AI/MainEnemy/Model/** linguist-generated
+
+/[Aa]ssets/Player/Hitsuji15/Asougi/** linguist-generated
+
+/[Pp]ackages/* linguist-generated
+/[Pp]rojectSettings/* linguist-generated
+
