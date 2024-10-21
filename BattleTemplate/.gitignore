@@ -71,4 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/Assets/TextMesh?Pro/** linguist-generated
+/[Aa]ssets/TextMesh?Pro/* linguist-generated
+/[Aa]ssets/TextMesh?Pro/** linguist-generated
