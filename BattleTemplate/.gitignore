@@ -103,5 +103,8 @@ crashlytics-build.properties
 /[Aa]ssets/Polytope?Studio/*** linguist-generated
 /[Aa]ssets/Polytope?Studio/**** linguist-generated
 
+/[Pp]ackages/* linguist-generated
+/[Pp]rojectSettings/* linguist-generated
+
 *.shaders linguist-vendored=true
 *.cginc linguist-vendored=true
