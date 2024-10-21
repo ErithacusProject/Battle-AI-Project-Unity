@@ -73,3 +73,7 @@ crashlytics-build.properties
 
 /[Aa]ssets/TextMesh?Pro/* linguist-generated
 /[Aa]ssets/TextMesh?Pro/** linguist-generated
+/[Aa]ssets/Free?Stylized?Skybox/** linguist-generated
+/[Aa]ssets/Free?Demo?of?Low?Poly?Space?Alien?Worlds?3D?Asset?Pack/** linguist-generated
+/[Aa]ssets/Hovl?Studio/** linguist-generated
+/[Aa]ssets/Polytope?Studio/** linguist-generated
