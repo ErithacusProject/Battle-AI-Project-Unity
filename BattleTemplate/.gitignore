@@ -103,6 +103,11 @@ crashlytics-build.properties
 /[Aa]ssets/Polytope?Studio/*** linguist-generated
 /[Aa]ssets/Polytope?Studio/**** linguist-generated
 
+/[Aa]ssets/AI/MainEnemy/Model/* linguist-generated
+/[Aa]ssets/AI/MainEnemy/Model/** linguist-generated
+
+/[Aa]ssets/Player/Hitsuji15/Asougi/** linguist-generated
+
 /[Pp]ackages/* linguist-generated
 /[Pp]rojectSettings/* linguist-generated
 
