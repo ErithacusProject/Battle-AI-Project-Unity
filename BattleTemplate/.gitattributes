@@ -2,4 +2,7 @@
 * text=auto
 
 *.shaders linguist-vendored=true
+**.shaders linguist-vendored=true
+***.shaders linguist-vendored=true
+****.shaders linguist-vendored=true
 *.cginc linguist-vendored=true
